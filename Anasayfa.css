@@ -1,5 +1,12 @@
+@font-face {
+  font-family: "Chomsky";
+  src: url(Fonts/chomsky/Chomsky.otf);
+}
+
 #Header1 {
+  font-family: Chomsky,'Gill Sans';
   text-align: center;
+  font-size: 6em;
 }
 
 #Headlines {
