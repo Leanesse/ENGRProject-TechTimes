@@ -1,0 +1,82 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#Header1 img {
+  display: block;
+  margin: 0 auto;
+}
+
+#Headlines {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+
+#Headlines2 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #333;
+}
+
+.buttons {
+  
+  margin: 20px auto;
+}
+
+button {
+  width: 5%;
+  height: 30px;
+  background-color: #333;
+  color: #fff;
+  border: 0;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.register-btn {
+  background-color: #000000;
+  font-family: ;
+}
+
+.login-btn {
+  background-color: #000000;
+}
+
+#Rectangle img {
+  display: block;
+  margin: 20px auto;
+}
+
+b {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  display: block;
+  margin: 20px auto;
+}
+
+p {
+  font-size: 16px;
+  color: #666;
+  display: block;
+  margin: 10px auto;
+  max-width: 800px;
+  text-align: left;
+}
+
+i {
+  font-style: italic;
+  color: #999;
+  display: block;
+  margin: 10px auto;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 800px;
+}
